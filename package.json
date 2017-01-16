@@ -1,0 +1,24 @@
+{
+  "name": "social-scrapper-practice",
+  "version": "0.0.0",
+  "description": "Following the tutorial at http://www.netinstructions.com/simple-web-scraping-with-node-js-and-javascript/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Steven-Nagie/social-scrapper-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steven-Nagie/social-scrapper-practice/issues"
+  },
+  "homepage": "https://github.com/Steven-Nagie/social-scrapper-practice",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "fs": "0.0.1-security",
+    "request": "^2.79.0"
+  }
+}
